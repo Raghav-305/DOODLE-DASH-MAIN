@@ -84,6 +84,8 @@ Build Command: npm install && npm run build
 Start Command: npm start
 ```
 
+The backend `package.json` pins Node to `20.x` and keeps TypeScript plus required `@types/*` packages in `dependencies` so Render can compile even when it installs with production settings.
+
 5. Set environment variables:
 
 ```env
