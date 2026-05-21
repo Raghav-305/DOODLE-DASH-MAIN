@@ -1,0 +1,35 @@
+{
+  "animals": [
+    "dog", "cat", "elephant", "giraffe", "penguin", "dolphin", "lion", "tiger",
+    "zebra", "monkey", "rabbit", "turtle", "octopus", "butterfly", "kangaroo",
+    "panda", "owl", "shark", "whale", "snake", "eagle", "frog", "spider",
+    "ladybug", "seahorse", "flamingo", "hedgehog", "chameleon", "koala"
+  ],
+  "objects": [
+    "computer", "telephone", "umbrella", "backpack", "guitar", "bicycle",
+    "camera", "television", "microwave", "toaster", "lamp", "clock",
+    "scissors", "pencil", "book", "key", "suitcase", "telescope", "compass",
+    "microphone", "headphones", "calculator", "binoculars", "magnet",
+    "flashlight", "battery", "lightbulb", "anchor", "snowflake", "crown"
+  ],
+  "actions": [
+    "running", "swimming", "dancing", "singing", "cooking", "sleeping",
+    "reading", "writing", "jumping", "flying", "climbing", "digging",
+    "painting", "fishing", "surfing", "skating", "skiing", "boxing",
+    "juggling", "meditating", "praying", "gardening", "knitting",
+    "whistling", "yawning", "sneezing", "waving", "clapping", "stretching"
+  ],
+  "food": [
+    "pizza", "hamburger", "sushi", "taco", "ice cream", "cake",
+    "watermelon", "banana", "apple", "cookie", "sandwich", "popcorn",
+    "donut", "spaghetti", "pancake", "chocolate", "lollipop", "cupcake",
+    "broccoli", "carrot", "cheese", "egg", "bread", "cereal", "noodles",
+    "muffin", "waffle", "pretzel", "candy", "marshmallow"
+  ],
+  "places": [
+    "beach", "mountain", "castle", "lighthouse", "pyramid", "igloo",
+    "tent", "bridge", "stadium", "library", "airport", "harbor",
+    "waterfall", "volcano", "desert", "forest", "island", "cave",
+    "skyscraper", "windmill", "barn", "cabin", "tower", "tunnel"
+  ]
+}
